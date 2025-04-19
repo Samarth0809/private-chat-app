@@ -1,0 +1,16 @@
+# Android Studio specific
+.idea/
+.gradle/
+local.properties
+*.iml
+
+# Build Folders
+/build/
+*/build/
+
+# Firebase
+/google-services.json
+
+# OS specific
+.DS_Store
+Thumbs.db
